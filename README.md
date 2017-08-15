@@ -1,7 +1,7 @@
 # Inheritance Practice
 
 ```bash
-$ git clone git@github.com:ga-wdi-exercises/es6-classes-inheritance-practice.git
+$ git clone git@git.generalassemb.ly:ga-wdi-exercises/es6-classes-inheritance-practice.git
 ```
 
 ## Create a `User` class.
